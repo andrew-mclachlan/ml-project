@@ -175,3 +175,4 @@ cython_debug/
 
 # MLflow
 mlruns
+mlartifacts
